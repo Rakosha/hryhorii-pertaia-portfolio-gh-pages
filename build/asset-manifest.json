@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/hryhorii-pertaia-portfolio/static/css/main.d4b9515f.chunk.css",
+    "main.js": "/hryhorii-pertaia-portfolio/static/js/main.e6f6252b.chunk.js",
+    "main.js.map": "/hryhorii-pertaia-portfolio/static/js/main.e6f6252b.chunk.js.map",
+    "runtime-main.js": "/hryhorii-pertaia-portfolio/static/js/runtime-main.d8256f93.js",
+    "runtime-main.js.map": "/hryhorii-pertaia-portfolio/static/js/runtime-main.d8256f93.js.map",
+    "static/js/2.7713ec02.chunk.js": "/hryhorii-pertaia-portfolio/static/js/2.7713ec02.chunk.js",
+    "static/js/2.7713ec02.chunk.js.map": "/hryhorii-pertaia-portfolio/static/js/2.7713ec02.chunk.js.map",
+    "index.html": "/hryhorii-pertaia-portfolio/index.html",
+    "precache-manifest.78ba7d2f347ad7cc0328f816ffb906bd.js": "/hryhorii-pertaia-portfolio/precache-manifest.78ba7d2f347ad7cc0328f816ffb906bd.js",
+    "service-worker.js": "/hryhorii-pertaia-portfolio/service-worker.js",
+    "static/css/main.d4b9515f.chunk.css.map": "/hryhorii-pertaia-portfolio/static/css/main.d4b9515f.chunk.css.map",
+    "static/js/2.7713ec02.chunk.js.LICENSE.txt": "/hryhorii-pertaia-portfolio/static/js/2.7713ec02.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/hryhorii-pertaia-portfolio/static/media/font-regular.1b40f018.ttf",
+    "static/media/mnt1.png": "/hryhorii-pertaia-portfolio/static/media/mnt1.a05c5fe1.png",
+    "static/media/mnt2.png": "/hryhorii-pertaia-portfolio/static/media/mnt2.79958372.png",
+    "static/media/mnt3.png": "/hryhorii-pertaia-portfolio/static/media/mnt3.b1c5272a.png",
+    "static/media/mnt4.png": "/hryhorii-pertaia-portfolio/static/media/mnt4.b48dd131.png",
+    "static/media/mnt5.png": "/hryhorii-pertaia-portfolio/static/media/mnt5.adbe2ca6.png",
+    "static/media/mntBG.png": "/hryhorii-pertaia-portfolio/static/media/mntBG.331d6e5e.png",
+    "static/media/mntGradient.png": "/hryhorii-pertaia-portfolio/static/media/mntGradient.42d7db3b.png",
+    "static/media/signature-verification-preview.png": "/hryhorii-pertaia-portfolio/static/media/signature-verification-preview.00571834.png",
+    "static/media/virtualGuitarProjectPreview.gif": "/hryhorii-pertaia-portfolio/static/media/virtualGuitarProjectPreview.efc7cf82.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8256f93.js",
+    "static/js/2.7713ec02.chunk.js",
+    "static/css/main.d4b9515f.chunk.css",
+    "static/js/main.e6f6252b.chunk.js"
+  ]
+}
