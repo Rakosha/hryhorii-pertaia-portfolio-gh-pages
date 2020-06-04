@@ -2,7 +2,7 @@
   "name": "hryhorii-pertaia-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://rakosha.github.io/hryhorii-pertaia-portfolio/",
+  "homepage": "http://rakosha.github.io/hryhorii-pertaia-portfolio-gh-pages/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
